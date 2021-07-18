@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Behavioral"
+      name = "Behavioral">
+   </Group>
+   <Group
+      location = "group:Structural"
+      name = "Structural">
+      <FileRef
+         location = "group:Composite/Composite.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Creational"
+      name = "Creational">
+      <FileRef
+         location = "group:Prototype/Prototype.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:FactoryMethod/FactoryMethod.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Singleton/Singleton.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Builder/Builder.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Composite/../AbstractFactory/AbstractFactory.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
