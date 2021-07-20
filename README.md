@@ -11,4 +11,4 @@ Repository contains Swift implementations of 23 design patterns found in "Design
 |                                  | [🏭 Factory Method](/Creational/FactoryMethod/FactoryMethod)       |                                               |
 |                                  | [🃏 Prototype](/Creational/Prototype/Prototype)                    |                                               |
 |                                  | [💍 Singleton](/Creational/Singleton/Singleton)                    |                                               |
-|                                  | [🎱 Object Pool)](/Creational/ObjectPool/ObjectPool)               |                                               |
+|                                  | [🎱 Object Pool](/Creational/ObjectPool/ObjectPool)               |                                               |
