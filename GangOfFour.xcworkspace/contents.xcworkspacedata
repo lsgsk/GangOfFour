@@ -9,6 +9,9 @@
       location = "group:Structural"
       name = "Structural">
       <FileRef
+         location = "group:Decorator/Decorator.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Bridge/Bridge.xcodeproj">
       </FileRef>
       <FileRef
