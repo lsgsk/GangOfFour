@@ -7,8 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C210701626B53E0300C69831 /* IEquipment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C210701526B53E0300C69831 /* IEquipment.swift */; };
+		C210701826B53E1300C69831 /* ICompositeEquipment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C210701726B53E1300C69831 /* ICompositeEquipment.swift */; };
+		C210701A26B53E4400C69831 /* EquipmentImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C210701926B53E4400C69831 /* EquipmentImp.swift */; };
+		C210701C26B53E5000C69831 /* CompositeEquipmentImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C210701B26B53E5000C69831 /* CompositeEquipmentImp.swift */; };
 		F8F99E2C2646B7C400862A9B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F99E2B2646B7C400862A9B /* main.swift */; };
-		F8F99E482647E17C00862A9B /* Equipments.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F99E472647E17C00862A9B /* Equipments.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,9 +27,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C210701526B53E0300C69831 /* IEquipment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IEquipment.swift; sourceTree = "<group>"; };
+		C210701726B53E1300C69831 /* ICompositeEquipment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICompositeEquipment.swift; sourceTree = "<group>"; };
+		C210701926B53E4400C69831 /* EquipmentImp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EquipmentImp.swift; sourceTree = "<group>"; };
+		C210701B26B53E5000C69831 /* CompositeEquipmentImp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompositeEquipmentImp.swift; sourceTree = "<group>"; };
 		F8F99E282646B7C400862A9B /* Composite */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Composite; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8F99E2B2646B7C400862A9B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		F8F99E472647E17C00862A9B /* Equipments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Equipments.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C210701426B53DDC00C69831 /* Pattern */ = {
+			isa = PBXGroup;
+			children = (
+				C210701526B53E0300C69831 /* IEquipment.swift */,
+				C210701926B53E4400C69831 /* EquipmentImp.swift */,
+				C210701726B53E1300C69831 /* ICompositeEquipment.swift */,
+				C210701B26B53E5000C69831 /* CompositeEquipmentImp.swift */,
+			);
+			path = Pattern;
+			sourceTree = "<group>";
+		};
 		F8F99E1F2646B7C400862A9B = {
 			isa = PBXGroup;
 			children = (
@@ -59,8 +76,8 @@
 		F8F99E2A2646B7C400862A9B /* Composite */ = {
 			isa = PBXGroup;
 			children = (
+				C210701426B53DDC00C69831 /* Pattern */,
 				F8F99E2B2646B7C400862A9B /* main.swift */,
-				F8F99E472647E17C00862A9B /* Equipments.swift */,
 			);
 			path = Composite;
 			sourceTree = "<group>";
@@ -122,7 +139,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8F99E482647E17C00862A9B /* Equipments.swift in Sources */,
+				C210701826B53E1300C69831 /* ICompositeEquipment.swift in Sources */,
+				C210701C26B53E5000C69831 /* CompositeEquipmentImp.swift in Sources */,
+				C210701A26B53E4400C69831 /* EquipmentImp.swift in Sources */,
+				C210701626B53E0300C69831 /* IEquipment.swift in Sources */,
 				F8F99E2C2646B7C400862A9B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
