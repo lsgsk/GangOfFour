@@ -1,7 +1,3 @@
-//
-//  Created by Лысов Александр on 31.07.2021.
-//
-
 protocol IWindowImp {
 	func drawLine(p1: Point, p2: Point)
 	func drawRect(p1: Point, p2: Point)

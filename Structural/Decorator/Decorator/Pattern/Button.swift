@@ -1,7 +1,3 @@
-//
-//  Created by Лысов Александр on 31.07.2021.
-//
-
 protocol IVisualComponent {
 	func draw()
 	func resize()

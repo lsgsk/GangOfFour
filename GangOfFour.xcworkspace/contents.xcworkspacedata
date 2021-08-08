@@ -5,12 +5,18 @@
       location = "group:Behavioral"
       name = "Behavioral">
       <FileRef
+         location = "group:Command/Command.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:ChainOfResponsibility/ChainOfResponsibility.xcodeproj">
       </FileRef>
    </Group>
    <Group
       location = "group:Structural"
       name = "Structural">
+      <FileRef
+         location = "group:FlyWeight/FlyWeight.xcodeproj">
+      </FileRef>
       <FileRef
          location = "group:Facade/Facade.xcodeproj">
       </FileRef>

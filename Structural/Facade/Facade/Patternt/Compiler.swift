@@ -1,10 +1,7 @@
-//
-//  Created by Лысов Александр on 31.07.2021.
-//
-
 import Foundation
 
-protocol IStream {}
+protocol IStream {
+}
 
 class Stream: IStream {
 }

@@ -1,7 +1,3 @@
-//
-//  Created by Лысов Александр on 31.07.2021.
-//
-
 final class Chassis: ICompositeEquipment {
 	private var collection = [IEquipment]()
 	private(set) var name: String

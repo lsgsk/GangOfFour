@@ -1,7 +1,3 @@
-//
-//  Created by Лысов Александр on 31.07.2021.
-//
-
 class ScrollDecorator: IVisualComponent {
 	private let component: IVisualComponent
 
