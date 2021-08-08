@@ -4,11 +4,31 @@ Repository contains Swift implementations of 23 design patterns found in "Design
 
 ## Table of Contents
  
-| Behavioral                                                 | Creational                                                      | Structural                                    |
-| ---------------------------------------------------------- | ----------------------------------------------------------------| ---------------------------------|
-|[🐝 Chain Of Responsibility](/Structural/Composite/Composite)|[🌰 Abstract Factory](/Creational/AbstractFactory/AbstractFactory)|[🌿 Composite]                    |
-|[Command](/Behavioral/Command/Command)                      | [👷 Builder](/Creational/Builder/Builder)                         | [🔌 Adapter](/Structural/Adapter/Adapter)      |
-|                                  | [🏭 Factory Method](/Creational/FactoryMethod/FactoryMethod)       |                                               |
-|                                  | [🃏 Prototype](/Creational/Prototype/Prototype)                    |                                               |
-|                                  | [💍 Singleton](/Creational/Singleton/Singleton)                    |                                               |
-|                                  | [🎱 Object Pool](/Creational/ObjectPool/ObjectPool)               |                                               |
+| Behavioral | Creational | Structural|
+| -----------| -----------| ----------|
+
+
+|[🐝 Chain Of Responsibility](/Behavioral/ChainOfResponsibility/ChainOfResponsibility)
+|[🌰 Abstract Factory](/Creational/AbstractFactory/AbstractFactory)
+|[🌿 Composite](/Structural/Composite/Composite)|
+
+|[👫 Command](/Behavioral/Command/Command)                      
+|[👷 Builder](/Creational/Builder/Builder)                         
+|[🔌 Adapter](/Structural/Adapter/Adapter)|
+
+
+|
+|[🏭 Factory Method](/Creational/FactoryMethod/FactoryMethod)
+||
+
+|
+|[🃏 Prototype](/Creational/Prototype/Prototype)
+||
+
+|
+|[💍 Singleton](/Creational/Singleton/Singleton)
+||
+
+|
+|[🎱 Object Pool](/Creational/ObjectPool/ObjectPool)
+||
