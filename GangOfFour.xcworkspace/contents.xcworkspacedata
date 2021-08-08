@@ -16,6 +16,9 @@
       name = "Structural">
       <FileRef
          location = "group:FlyWeight/FlyWeight.xcodeproj">
+    </FileRef>
+     <FileRef
+         location = "group:Proxy/Proxy.xcodeproj">
       </FileRef>
       <FileRef
          location = "group:Facade/Facade.xcodeproj">
