@@ -6,8 +6,6 @@ Repository contains Swift implementations of 23 design patterns found in "Design
  
 | Behavioral | Creational | Structural|
 | -----------| -----------| ----------|
-
-
 |[🐝 Chain Of Responsibility](/Behavioral/ChainOfResponsibility/ChainOfResponsibility)
 |[🌰 Abstract Factory](/Creational/AbstractFactory/AbstractFactory)
 |[🌿 Composite](/Structural/Composite/Composite)|
