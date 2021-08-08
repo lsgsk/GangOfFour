@@ -12,3 +12,10 @@ Repository contains Swift implementations of 23 design patterns found in "Design
 ||[🃏 Prototype](/Creational/Prototype/Prototype)||
 ||[💍 Singleton](/Creational/Singleton/Singleton)||
 ||[🎱 Object Pool](/Creational/ObjectPool/ObjectPool)||
+
+
+[Bridge](/Structural/Bridge/Bridge)
+[Decorator](/Structural/Decorator/Decorator)
+[Facade](/Structural/Facade/Facade)
+[FlyWeight](/Structural/FlyWeight/FlyWeight)
+[Proxy](/Structural/Proxy/Proxy)
