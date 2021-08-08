@@ -9,6 +9,9 @@
       location = "group:Structural"
       name = "Structural">
       <FileRef
+         location = "group:Proxy/Proxy.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Adapter/Adapter.xcodeproj">
       </FileRef>
       <FileRef
