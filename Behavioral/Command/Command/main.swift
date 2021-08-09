@@ -9,3 +9,7 @@ let macroCommand = MacroCommand()
 macroCommand.add(command: openCommand)
 macroCommand.add(command: pasteCommand)
 macroCommand.execute()
+
+
+let reciver = Light()
+Switch().execute(SwitchOnCommand(reciver))
