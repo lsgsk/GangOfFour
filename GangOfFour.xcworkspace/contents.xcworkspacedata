@@ -5,6 +5,12 @@
       location = "group:Behavioral"
       name = "Behavioral">
       <FileRef
+         location = "group:Memento/Memento.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Mediator/Mediator.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Interpreter/Interpreter.xcodeproj">
       </FileRef>
       <FileRef
