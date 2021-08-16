@@ -5,6 +5,9 @@
       location = "group:Behavioral"
       name = "Behavioral">
       <FileRef
+         location = "group:Observer/Observer.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:Memento/Memento.xcodeproj">
       </FileRef>
       <FileRef
