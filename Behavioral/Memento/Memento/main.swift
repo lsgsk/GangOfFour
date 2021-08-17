@@ -1,10 +1,3 @@
-//
-//  main.swift
-//  Memento
-//
-//  Created by Лысов Александр on 11.08.2021.
-//
-
 struct Point {
 	let x: Int
 	let y: Int
