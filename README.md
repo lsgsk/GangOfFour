@@ -1,6 +1,6 @@
 # Gang of Four
 
-Repository contains Swift implementations of 23 (and one more) design patterns found in "Design Patterns" book of Gang of Four.
+Repository contains Swift implementations of 23 (and one more over) design patterns found in "Design Patterns" book of Gang of Four.
 
 ## Table of Contents
  
