@@ -5,6 +5,15 @@
       location = "group:Behavioral"
       name = "Behavioral">
       <FileRef
+         location = "group:Visitor/Visitor.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:TemplateMethod/TemplateMethod.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Strategy/Strategy.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:State/State.xcodeproj">
       </FileRef>
       <FileRef
